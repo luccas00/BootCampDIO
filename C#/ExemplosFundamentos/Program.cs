@@ -18,6 +18,8 @@ namespace ExemplosFundamentos
             DateTime data = DateTime.Now;
             Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
 
+            int a = 10;
+
             Console.WriteLine("Fim da Main");
         }
     }
