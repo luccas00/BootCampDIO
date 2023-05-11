@@ -9,4 +9,3 @@ distancia = 477.5;
 
 let result = (distancia/kmPorLitro) * gasolina;
 console.log("Valor da viagem R$ " + result.toFixed(2));
-
