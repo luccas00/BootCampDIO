@@ -1,0 +1,14 @@
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\bin\Debug\netcoreapp3.1\ExemplosFundamentos.exe
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\bin\Debug\netcoreapp3.1\ExemplosFundamentos.deps.json
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\bin\Debug\netcoreapp3.1\ExemplosFundamentos.runtimeconfig.json
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\bin\Debug\netcoreapp3.1\ExemplosFundamentos.runtimeconfig.dev.json
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\bin\Debug\netcoreapp3.1\ExemplosFundamentos.dll
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\bin\Debug\netcoreapp3.1\ExemplosFundamentos.pdb
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.csproj.AssemblyReference.cache
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.AssemblyInfoInputs.cache
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.AssemblyInfo.cs
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.dll
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.pdb
+C:\Workspace\BootCampDIO\C#\ExemplosFundamentos\obj\Debug\netcoreapp3.1\ExemplosFundamentos.genruntimeconfig.cache

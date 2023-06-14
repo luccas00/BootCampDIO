@@ -1,0 +1,15 @@
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.csproj.AssemblyReference.cache
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.AssemblyInfoInputs.cache
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.AssemblyInfo.cs
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafio de Projeto DIO\bin\Debug\net7.0\Desafio de Projeto DIO.exe
+C:\Workspace\Desafio de Projeto DIO\bin\Debug\net7.0\Desafio de Projeto DIO.deps.json
+C:\Workspace\Desafio de Projeto DIO\bin\Debug\net7.0\Desafio de Projeto DIO.runtimeconfig.json
+C:\Workspace\Desafio de Projeto DIO\bin\Debug\net7.0\Desafio de Projeto DIO.dll
+C:\Workspace\Desafio de Projeto DIO\bin\Debug\net7.0\Desafio de Projeto DIO.pdb
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.dll
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\refint\Desafio de Projeto DIO.dll
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.pdb
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\Desafio de Projeto DIO.genruntimeconfig.cache
+C:\Workspace\Desafio de Projeto DIO\obj\Debug\net7.0\ref\Desafio de Projeto DIO.dll
