@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yE1h91O3d2/cZZNm9A75mcZKhKmZGCfYTayH8BH1UaCDSq0aTu3c5UIJwO1CQk/2/a/vV4HwuDZQzvJtzJYgoQ==",
+  "dgSpecHash": "68CIWDdftWi2Y3VBX3ZS/JJjGmCKw3Lxz+ounaRqBMSEnHHFj/eHyC2f6hyP/c8wbpM84ZGzb+MQECzcTJOi6w==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\BootCampDIO\\C#\\ExemplosFundamentos\\ExemplosFundamentos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LuccasCarneiro\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LuccasCarneiro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LuccasCarneiro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\LuccasCarneiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

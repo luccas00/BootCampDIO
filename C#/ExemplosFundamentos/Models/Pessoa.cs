@@ -12,6 +12,9 @@ namespace ExemplosFundamentos.Models
 
         public double Peso { get; set; }
 
+        public Pessoa() {
+
+        }
         public Pessoa(string nome)
         {
             this.Nome = nome;

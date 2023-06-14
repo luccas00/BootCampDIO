@@ -1,11 +1,15 @@
-console.log('Inicio do JS');
+(function () {
 
-let gasolina;
-const kmPorLitro = 12;
-let distancia;
+    console.log('Inicio do JS');
 
-gasolina = 4.55;
-distancia = 477.5;
+    let gasolina;
+    const kmPorLitro = 12;
+    let distancia;
 
-let result = (distancia/kmPorLitro) * gasolina;
-console.log("Valor da viagem R$ " + result.toFixed(2));
+    gasolina = 4.55;
+    distancia = 477.5;
+
+    let result = (distancia/kmPorLitro) * gasolina;
+    console.log("Valor da viagem R$ " + result.toFixed(2));
+
+})();
